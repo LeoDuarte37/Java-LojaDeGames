@@ -164,21 +164,29 @@ Atividade Spring do Bootcamp:
 
 Main 
 
-    Inicialização do projeto Spring, configuração da application.properties para conexão com o banco de dados, e criação das camadas Repository, Model, e Controller.
+- Inicialização do projeto Spring 
+- Configuração da application.properties para conexão com o banco de dados 
+- Criação das camadas Repository, Model, e Controller.
 
 RelacionamentoTabelas 
 
-    Desenvolvimento das classes Produto e Categoria com os seus devidos atributos, annotations, e relacionamento OneToMany e ManyToOne entre elas.
+- Desenvolvimento das classes Produto e Categoria com os seus devidos atributos  
+- Annotations
+- Relacionamento OneToMany e ManyToOne entre elas.
 
 Crud 
 
-    Conexão com o JpaRepository, dois métodos personalizados, Autowired para injeção de dependências, e o desenvolvimento dos métodos HTTP (GET, POST, PUT e DELETE).
+- Conexão com o JpaRepository
+- Dois métodos personalizados
+- Autowired para injeção de dependências
+- Desenvolvimento dos métodos HTTP (GET, POST, PUT e DELETE).
 
 **Antes de enviar a atividade, realizei os testes no Insomnia juntamente com o MySQL para ver se tudo estava funcionando e fiz o merge para a main.**
 
 ## Aprendizados
 
 Essa parte prática me ajudou muito na fixação dos conteudos passados em aula e das leituras feitas em cima da documentação do bootcamp. Senti mais confiança no desenvolvimento dessa tarefa e sinto que a cada prática realizada isso tende a crescer.
+
 
 
 
