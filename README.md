@@ -158,12 +158,15 @@ Construa o Backend para uma Loja de Games com a capacidade de manipular os dados
 | :---------- | :--------- | :------------------------------------------ |
 | `id`      | `string` | **Obrigatório**. Id da categoria para deleção|
 
+#
+
 ## Stack utilizada
 
 **Back-end:** Java, Spring Boot, MySQl
 
 **Testes:** Insomnia
 
+#
 
 ## Processo de desenvolvimento das branches
 
