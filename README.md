@@ -1,9 +1,9 @@
 
 #  Loja de Games
 
-Atividade Spring do Bootcamp:
+***Atividade Spring do Bootcamp:***
 
-    "Construa o Backend para uma Loja de Games com a capacidade de manipular os dados dos Produtos da loja. Os produtos deverão estar classificados por Categoria."
+Construa o Backend para uma Loja de Games com a capacidade de manipular os dados dos Produtos da loja. Os produtos deverão estar classificados por Categoria.
 
 
 
