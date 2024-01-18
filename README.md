@@ -160,7 +160,7 @@ Construa o Backend para uma Loja de Games com a capacidade de manipular os dados
 
 #
 
-## Stack utilizada
+### Stack utilizada
 
 **Back-end:** Java, Spring Boot, MySQl
 
@@ -168,7 +168,7 @@ Construa o Backend para uma Loja de Games com a capacidade de manipular os dados
 
 #
 
-## Processo de desenvolvimento das branches
+### Processo de desenvolvimento das branches
 
 Main 
 
@@ -193,7 +193,7 @@ Crud
 
 #
 
-## Aprendizados
+### Aprendizados
 
 Essa parte prática me ajudou muito na fixação dos conteudos passados em aula e das leituras feitas em cima da documentação do bootcamp. Senti mais confiança no desenvolvimento dessa tarefa e sinto que a cada prática realizada isso tende a crescer.
 
