@@ -20,6 +20,8 @@ Construa o Backend para uma Loja de Games com a capacidade de manipular os dados
 
 ### Produto
 
+#
+
 #### Retorna todos os produtos
 
 ```
@@ -90,6 +92,8 @@ Construa o Backend para uma Loja de Games com a capacidade de manipular os dados
 #
 
 ### Categoria
+
+#
 
 #### Retorna todos as categorias
 
