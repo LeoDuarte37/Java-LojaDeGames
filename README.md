@@ -64,7 +64,7 @@ Construa o Backend para uma Loja de Games com a capacidade de manipular os dados
 | `categoria: { id: }`      | `int` | **Obrigatório**. Id da categoria do produto|
 
 
-#### atualização de um produto pelo ID
+#### Atualização de um produto pelo ID
 
 ```
   PUT /produto
@@ -190,6 +190,8 @@ Crud
 - Desenvolvimento dos métodos HTTP (GET, POST, PUT e DELETE).
 
 **Antes de enviar a atividade, realizei os testes no Insomnia juntamente com o MySQL para ver se tudo estava funcionando e fiz o merge para a main.**
+
+#
 
 ## Aprendizados
 
