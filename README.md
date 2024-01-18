@@ -22,13 +22,13 @@ Atividade Spring do Bootcamp:
 
 #### Retorna todos os produtos
 
-```http
+```
   GET /produto
 ```
 
 #### Retorna um produto pelo ID
 
-```http
+```
   GET /produto/${id}
 ```
 
@@ -39,7 +39,7 @@ Atividade Spring do Bootcamp:
 
 #### Retorna um produto pelo nome
 
-```http
+```
   GET /produto/nome/${nome}
 ```
 
@@ -50,7 +50,7 @@ Atividade Spring do Bootcamp:
 
 #### Registra um produto
 
-```http
+```
   POST /produto
 ```
 
@@ -64,7 +64,7 @@ Atividade Spring do Bootcamp:
 
 #### atualização de um produto pelo ID
 
-```http
+```
   PUT /produto
 ```
 
@@ -79,7 +79,7 @@ Atividade Spring do Bootcamp:
 
 #### Deleção de um item pelo ID
 
-```http
+```
   DELETE /produto/${id}
 ```
 
@@ -92,13 +92,13 @@ Atividade Spring do Bootcamp:
 
 #### Retorna todos as categorias
 
-```http
+```
   GET /categoria
 ```
 
 #### Retorna uma categoria pelo ID
 
-```http
+```
   GET /categoria/${id}
 ```
 
@@ -109,7 +109,7 @@ Atividade Spring do Bootcamp:
 
 #### Retorna uma categoria pelo nome
 
-```http
+```
   GET /categoria/nome/${nome}
 ```
 
@@ -120,7 +120,7 @@ Atividade Spring do Bootcamp:
 
 #### Registra uma categoria
 
-```http
+```
   POST /categoria
 ```
 
@@ -132,7 +132,7 @@ Atividade Spring do Bootcamp:
 
 #### atualização de uma categoria pelo ID
 
-```http
+```
   PUT /categoria
 ```
 
@@ -145,7 +145,7 @@ Atividade Spring do Bootcamp:
 
 #### Deleção de uma categoria pelo ID
 
-```http
+```
   DELETE /categoria/${id}
 ```
 
