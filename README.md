@@ -16,6 +16,43 @@ Construa o Backend para uma Loja de Games com a capacidade de manipular os dados
 - Atualização de registros pelo método PUT
 - Deleção de registros pelo método DELETE
 
+
+#
+
+## Stack utilizada
+
+**Back-end:** Java, Spring Boot, MySQl
+
+**Testes:** Insomnia
+
+#
+
+## Processo de desenvolvimento das branches
+
+Main 
+
+- Inicialização do projeto Spring 
+- Configuração da application.properties para conexão com o banco de dados 
+- Criação das camadas Repository, Model, e Controller.
+
+RelacionamentoTabelas 
+
+- Desenvolvimento das classes Produto e Categoria com os seus devidos atributos  
+- Annotations
+- Relacionamento OneToMany e ManyToOne entre elas.
+
+Crud 
+
+- Conexão com o JpaRepository
+- Dois métodos personalizados
+- Autowired para injeção de dependências
+- Desenvolvimento dos métodos HTTP (GET, POST, PUT e DELETE).
+
+**Antes de enviar a atividade, realizei os testes no Insomnia juntamente com o MySQL para ver se tudo estava funcionando e fiz o merge para a main.**
+
+#
+
+
 ## Documentação da API 
 
 ### Produto
@@ -157,41 +194,6 @@ Construa o Backend para uma Loja de Games com a capacidade de manipular os dados
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
 | `id`      | `string` | **Obrigatório**. Id da categoria para deleção|
-
-#
-
-## Stack utilizada
-
-**Back-end:** Java, Spring Boot, MySQl
-
-**Testes:** Insomnia
-
-#
-
-## Processo de desenvolvimento das branches
-
-Main 
-
-- Inicialização do projeto Spring 
-- Configuração da application.properties para conexão com o banco de dados 
-- Criação das camadas Repository, Model, e Controller.
-
-RelacionamentoTabelas 
-
-- Desenvolvimento das classes Produto e Categoria com os seus devidos atributos  
-- Annotations
-- Relacionamento OneToMany e ManyToOne entre elas.
-
-Crud 
-
-- Conexão com o JpaRepository
-- Dois métodos personalizados
-- Autowired para injeção de dependências
-- Desenvolvimento dos métodos HTTP (GET, POST, PUT e DELETE).
-
-**Antes de enviar a atividade, realizei os testes no Insomnia juntamente com o MySQL para ver se tudo estava funcionando e fiz o merge para a main.**
-
-#
 
 ## Aprendizados
 
