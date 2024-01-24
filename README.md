@@ -6,7 +6,7 @@
 Construa o Backend para uma Loja de Games com a capacidade de manipular os dados dos Produtos da loja. Os produtos deverão estar classificados por Categoria.
 
 
-
+![1705521612342](https://github.com/LeoDuarte37/Java-LojaDeGames/assets/133834707/d65a4595-57e3-4cfc-a0b3-f23ab5f0b1da)
 
 
 ## Funcionalidades
